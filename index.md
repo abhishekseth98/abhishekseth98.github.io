@@ -1,7 +1,8 @@
 ---
 layout: splash
-title: ""
+title: "Abhishek Seth"
 permalink: /
+excerpt: "Doctoral Student in Economics at IIT Roorkee."
 ---
 
 ***Welcome!*** <br>
