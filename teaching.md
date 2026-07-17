@@ -5,8 +5,8 @@ permalink: /teaching/
 ---
 
 ## Teaching interests
-- *Primary:* Financial Economics, Corporate Finance  
-- *Secondary:* Econometrics, Macroeconomics, Microeconomics
+- *Primary:* Financial economics, corporate finance  
+- *Secondary:* Econometrics, macroeconomics, microeconomics
 
 ## Teaching assistantship
 - Financial economics
